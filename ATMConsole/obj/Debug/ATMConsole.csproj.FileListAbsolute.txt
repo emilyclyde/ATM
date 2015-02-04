@@ -1,0 +1,6 @@
+C:\Users\Emily\Desktop\ATMConsole\ATMConsole\bin\Debug\ATMConsole.exe.config
+C:\Users\Emily\Desktop\ATMConsole\ATMConsole\obj\Debug\ATMConsole.csprojResolveAssemblyReference.cache
+C:\Users\Emily\Desktop\ATMConsole\ATMConsole\bin\Debug\ATMConsole.exe
+C:\Users\Emily\Desktop\ATMConsole\ATMConsole\bin\Debug\ATMConsole.pdb
+C:\Users\Emily\Desktop\ATMConsole\ATMConsole\obj\Debug\ATMConsole.exe
+C:\Users\Emily\Desktop\ATMConsole\ATMConsole\obj\Debug\ATMConsole.pdb
